@@ -1,16 +1,32 @@
-## Hi there 👋
+# Python learning with an engineering focus
 
-<!--
-**rsydnmgt2311/rsydnmgt2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am developing my programming skills through practical Python exercises, with a long-term interest in software, firmware, and embedded systems engineering.
 
-Here are some ideas to get you started:
+## Featured portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Python Engineering Portfolio →**](https://github.com/rsydnmgt2311/python-engineering-portfolio)
+
+Seven completed command-line exercises covering input validation, conditions, loops, summary statistics, and reusable functions. Each exercise includes source code, usage instructions, and manual test cases.
+
+| Explore my work | What it demonstrates |
+| --- | --- |
+| [Engineering Conversion Toolkit](https://github.com/rsydnmgt2311/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/engineering-conversion-toolkit) | Reusable functions, a repeating menu and error handling |
+| [Sensor Reading Analyzer](https://github.com/rsydnmgt2311/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/sensor-reading-analyzer) | Temperature classification, counters and summary statistics |
+| [Number Analyzer](https://github.com/rsydnmgt2311/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/number-analyzer) | Loops, running totals and minimum/maximum tracking |
+
+## Currently practising
+
+- Writing and calling Python functions
+- Validating user input and testing boundary cases
+- Explaining code clearly and improving it through review
+- Documenting finished exercises with Git and GitHub
+
+## Where I am heading
+
+My next steps are string processing, data structures, file handling, and larger engineering simulations. Firmware and embedded systems are areas I want to grow into as my programming foundation develops.
+
+[Follow my learning roadmap](https://github.com/rsydnmgt2311/python-engineering-portfolio/blob/main/ROADMAP.md)
+
+## How I learn
+
+I write an initial solution, test it, and use AI-assisted explanations and review to understand and correct mistakes. This profile documents that learning process and the work I have completed.
