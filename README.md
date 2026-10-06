@@ -6,10 +6,11 @@ I am developing my programming skills through practical Python exercises, with a
 
 [**Python Engineering Portfolio →**](https://github.com/RasydanMegat/python-engineering-portfolio)
 
-Seven completed command-line exercises covering input validation, conditions, loops, summary statistics, and reusable functions. Each exercise includes source code, usage instructions, and manual test cases.
+Eight completed command-line exercises covering input validation, conditions, loops, summary statistics, and reusable functions. Each exercise includes source code, usage instructions, and manual test cases.
 
 | Explore my work | What it demonstrates |
 | --- | --- |
+| [Voltage Safety Checker](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/voltage-safety-checker) | Boolean validation, finite-number checks and boundary classification |
 | [Engineering Conversion Toolkit](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/engineering-conversion-toolkit) | Reusable functions, a repeating menu and error handling |
 | [Sensor Reading Analyzer](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/sensor-reading-analyzer) | Temperature classification, counters and summary statistics |
 | [Number Analyzer](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/number-analyzer) | Loops, running totals and minimum/maximum tracking |
