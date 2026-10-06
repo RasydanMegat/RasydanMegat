@@ -4,15 +4,15 @@ I am developing my programming skills through practical Python exercises, with a
 
 ## Featured portfolio
 
-[**Python Engineering Portfolio →**](https://github.com/rsydnmgt2311/python-engineering-portfolio)
+[**Python Engineering Portfolio →**](https://github.com/RasydanMegat/python-engineering-portfolio)
 
 Seven completed command-line exercises covering input validation, conditions, loops, summary statistics, and reusable functions. Each exercise includes source code, usage instructions, and manual test cases.
 
 | Explore my work | What it demonstrates |
 | --- | --- |
-| [Engineering Conversion Toolkit](https://github.com/rsydnmgt2311/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/engineering-conversion-toolkit) | Reusable functions, a repeating menu and error handling |
-| [Sensor Reading Analyzer](https://github.com/rsydnmgt2311/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/sensor-reading-analyzer) | Temperature classification, counters and summary statistics |
-| [Number Analyzer](https://github.com/rsydnmgt2311/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/number-analyzer) | Loops, running totals and minimum/maximum tracking |
+| [Engineering Conversion Toolkit](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/engineering-conversion-toolkit) | Reusable functions, a repeating menu and error handling |
+| [Sensor Reading Analyzer](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/sensor-reading-analyzer) | Temperature classification, counters and summary statistics |
+| [Number Analyzer](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/number-analyzer) | Loops, running totals and minimum/maximum tracking |
 
 ## Currently practising
 
@@ -27,9 +27,9 @@ My next steps are string processing, data structures, object-oriented programmin
 
 My planned OOP work covers classes, objects, composition, inheritance, and polymorphism through device and sensor exercises, followed by inventory and monitoring simulations.
 
-[Explore my OOP learning plan](https://github.com/rsydnmgt2311/python-engineering-portfolio/tree/main/06-object-oriented-programming)
+[Explore my OOP learning plan](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/06-object-oriented-programming)
 
-[Follow my learning roadmap](https://github.com/rsydnmgt2311/python-engineering-portfolio/blob/main/ROADMAP.md)
+[Follow my learning roadmap](https://github.com/RasydanMegat/python-engineering-portfolio/blob/main/ROADMAP.md)
 
 ## How I learn
 
