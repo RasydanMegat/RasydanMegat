@@ -24,11 +24,11 @@ Eight completed command-line exercises covering input validation, conditions, lo
 
 ## Where I am heading
 
-My next steps are string processing, data structures, object-oriented programming (OOP), file handling, and larger engineering simulations. Firmware and embedded systems are areas I want to grow into as my programming foundation develops.
+My next steps are string processing, data structures, files and error handling, object-oriented programming (OOP), larger basic projects, and engineering simulations, in that order. Firmware and embedded systems are areas I want to grow into as my programming foundation develops.
 
 My planned OOP work covers classes, objects, composition, inheritance, and polymorphism through device and sensor exercises, followed by inventory and monitoring simulations.
 
-[Explore my OOP learning plan](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/06-object-oriented-programming)
+[Explore my OOP learning plan](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/04-object-oriented-programming)
 
 [Follow my learning roadmap](https://github.com/RasydanMegat/python-engineering-portfolio/blob/main/ROADMAP.md)
 
