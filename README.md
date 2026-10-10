@@ -6,7 +6,7 @@ I am developing my programming skills through practical Python exercises, with a
 
 [**Python Engineering Portfolio →**](https://github.com/RasydanMegat/python-engineering-portfolio)
 
-Eight completed command-line exercises covering input validation, conditions, loops, summary statistics, and reusable functions. Each exercise includes source code, usage instructions, and manual test cases.
+Nine completed command-line exercises covering input validation, conditions, loops, summary statistics, reusable functions, and string searching. Each exercise includes source code, usage instructions, and manual test cases.
 
 | Explore my work | What it demonstrates |
 | --- | --- |
