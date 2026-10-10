@@ -32,6 +32,18 @@ My planned OOP work covers classes, objects, composition, inheritance, and polym
 
 [Follow my learning roadmap](https://github.com/RasydanMegat/python-engineering-portfolio/blob/main/ROADMAP.md)
 
+## Power BI project
+
+[**Semiconductor Process Quality & Yield Analysis →**](https://github.com/RasydanMegat/semiconductor-quality-analytics)
+
+A four-page Power BI report exploring semiconductor test outcomes using the UCI SECOM dataset: **1,567 samples and 590 measurements**. It connects a quality overview with measurement investigation, data-quality checks, and drillthrough to individual samples.
+
+[![Semiconductor quality overview dashboard](https://raw.githubusercontent.com/RasydanMegat/semiconductor-quality-analytics/main/docs/screenshots/overview.png)](https://github.com/RasydanMegat/semiconductor-quality-analytics#explore-the-report)
+
+**Skills demonstrated:** Power Query data preparation, data modelling, DAX measures, interactive report design, and data validation.
+
+[Explore the report and findings](https://github.com/RasydanMegat/semiconductor-quality-analytics#explore-the-report) · [View the model and calculations](https://github.com/RasydanMegat/semiconductor-quality-analytics/blob/main/docs/technical-notes.md) · [Open the project in Power BI Desktop](https://github.com/RasydanMegat/semiconductor-quality-analytics#open-locally)
+
 ## How I learn
 
 I write an initial solution, test it, and use AI-assisted explanations and review to understand and correct mistakes. This profile documents that learning process and the work I have completed.
