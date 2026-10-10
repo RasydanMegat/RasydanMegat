@@ -6,7 +6,7 @@ I am developing my programming skills through practical Python exercises, with a
 
 [**Python Engineering Portfolio →**](https://github.com/RasydanMegat/python-engineering-portfolio)
 
-Nine completed command-line exercises covering input validation, conditions, loops, summary statistics, reusable functions, and string searching. Each exercise includes source code, usage instructions, and manual test cases.
+Ten completed command-line exercises covering input validation, conditions, loops, summary statistics, reusable functions, string searching, and structured-message parsing. The Python fundamentals stage is complete. Each exercise includes source code, usage instructions, and manual test cases.
 
 | Explore my work | What it demonstrates |
 | --- | --- |
@@ -24,7 +24,7 @@ Nine completed command-line exercises covering input validation, conditions, loo
 
 ## Where I am heading
 
-My next steps are string processing, data structures, files and error handling, object-oriented programming (OOP), larger basic projects, and engineering simulations, in that order. Firmware and embedded systems are areas I want to grow into as my programming foundation develops.
+My next steps are data structures, files and error handling, object-oriented programming (OOP), larger basic projects, and engineering simulations, in that order. Firmware and embedded systems are areas I want to grow into as my programming foundation develops.
 
 My planned OOP work covers classes, objects, composition, inheritance, and polymorphism through device and sensor exercises, followed by inventory and monitoring simulations.
 
