@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180" role="img" aria-label="Embedded learning plan">
+<rect x="1" y="1" width="758" height="178" rx="16" fill="#0b1729" stroke="#263e55"/>
+<path d="M125 63H635" fill="none" stroke="#33435c" stroke-width="2" stroke-dasharray="5 6"/>
+<g fill="#0b1729" stroke="#627291" stroke-width="2"><circle cx="125" cy="63" r="19" stroke="#9eaff5"/><circle cx="380" cy="63" r="19"/><circle cx="635" cy="63" r="19"/></g>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle"><g font-size="15" fill="#e6edf3"><text x="125" y="69">01</text><text x="380" y="69">02</text><text x="635" y="69">03</text></g><g font-size="20" fill="#e6edf3"><text x="125" y="114">Coursework</text><text x="380" y="114">Notes &amp; C practice</text><text x="635" y="114">Hands-on projects</text></g><g font-size="13" letter-spacing="2" fill="#9eaff5"><text x="125" y="147">IN PROGRESS</text><text x="380" y="147" fill="#9eafc3">PLANNED</text><text x="635" y="147" fill="#9eafc3">PLANNED</text></g></g>
+</svg>
