@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="380" viewBox="0 0 560 380" role="img" aria-label="Illustrated preview of documented Voltage Safety Checker output">
+<rect x="1" y="1" width="558" height="378" rx="18" fill="#0b1729" stroke="#263e55" stroke-width="2"/>
+<path d="M1 53H559" stroke="#263e55"/>
+<circle cx="25" cy="28" r="5" fill="#56d4e5"/><circle cx="44" cy="28" r="5" fill="#e8be65"/><circle cx="63" cy="28" r="5" fill="#9eaff5"/>
+<g font-family="Consolas,monospace" font-size="17">
+<text x="90" y="34" fill="#9eafc3">voltage-safety-checker</text>
+<text x="25" y="96" fill="#56d4e5">&gt; python main.py</text>
+<text x="25" y="139" fill="#9eafc3">input: 2.5</text>
+<text x="25" y="165" fill="#e8be65">Voltage: 2.50 V | Status: LOW</text>
+<text x="25" y="208" fill="#9eafc3">input: 3.3</text>
+<text x="25" y="234" fill="#69d6ae">Voltage: 3.30 V | Status: NORMAL</text>
+<text x="25" y="277" fill="#9eafc3">input: 4.2</text>
+<text x="25" y="303" fill="#e8be65">Voltage: 4.20 V | Status: HIGH</text>
+<text x="25" y="350" fill="#9eafc3" font-size="14">SIMULATED VALUES / LEARNING PROGRAM</text>
+</g></svg>

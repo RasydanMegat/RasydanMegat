@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Learn, build, test, document">
+<rect x="1" y="1" width="1198" height="138" rx="16" fill="#0b1729" stroke="#263e55"/>
+<path d="M145 52H1055" stroke="#294159" stroke-width="2"/>
+<circle r="4" fill="#56d4e5"><animateMotion dur="9s" repeatCount="indefinite" path="M145 52H1055"/></circle>
+<g fill="#0b1729" stroke="#56d4e5" stroke-width="2"><circle cx="145" cy="52" r="17"/><circle cx="448" cy="52" r="17"/><circle cx="752" cy="52" r="17"/><circle cx="1055" cy="52" r="17" stroke="#e8be65"/></g>
+<g fill="#e6edf3" font-family="Segoe UI,Arial,sans-serif" text-anchor="middle"><g font-size="14"><text x="145" y="57">01</text><text x="448" y="57">02</text><text x="752" y="57">03</text><text x="1055" y="57">04</text></g><g font-size="19" letter-spacing="3"><text x="145" y="104">LEARN</text><text x="448" y="104">BUILD</text><text x="752" y="104">TEST</text><text x="1055" y="104">DOCUMENT</text></g></g>
+</svg>
