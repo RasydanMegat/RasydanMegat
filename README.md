@@ -1,71 +1,107 @@
 <p align="center">
-  <img src="assets/profile-banner-v3.png" width="100%" alt="Rasydan Megat — Module Engineer. Building toward Embedded, Firmware &amp; Test Engineering.">
+  <img src="assets/rasydan-engineering-banner.png" width="100%" alt="Rasydan Megat — Module Engineer. Code. Systems. Engineering.">
 </p>
 
-I'm **Rasydan**, a Module Engineer building skills in **Python, C, embedded systems, and firmware**. My goal is to move into embedded, firmware, or test engineering, and this portfolio documents my progress through projects and continued learning.
-
-<p>
-  <a href="#01--python-engineering-portfolio">Python portfolio</a> &nbsp;·&nbsp;
-  <a href="#02--power-bi--semiconductor-quality--yield">Power BI project</a> &nbsp;·&nbsp;
-  <a href="#03--embedded--firmware-learning">Embedded &amp; firmware</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/rasydan-bin-megat-ridzuan-350b2426a/">LinkedIn ↗</a>
+<p align="center">
+  <strong>Preparing for opportunities in Embedded Systems, Firmware &amp; Test Engineering</strong><br>
+  <sub>LEARNING FOCUS &nbsp; / &nbsp; Python · C · Embedded Systems · Firmware</sub>
 </p>
+
+<p align="center">
+  <a href="#01--python-engineering-portfolio"><img src="https://img.shields.io/badge/01-PYTHON-56D4E5?style=for-the-badge&amp;labelColor=0B1729" alt="Explore Python portfolio"></a>
+  <a href="#02--semiconductor-quality-analytics"><img src="https://img.shields.io/badge/02-POWER_BI-E8BE65?style=for-the-badge&amp;labelColor=0B1729" alt="Explore Power BI project"></a>
+  <a href="#03--embedded-systems--firmware"><img src="https://img.shields.io/badge/03-EMBEDDED_%26_FIRMWARE-9EAFF5?style=for-the-badge&amp;labelColor=0B1729" alt="Explore embedded and firmware learning"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rasydan-bin-megat-ridzuan-350b2426a/">LinkedIn ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/RasydanMegat?tab=repositories">All repositories ↗</a> &nbsp;·&nbsp;
+  <a href="mailto:rasydan.mgtridzuan@gmail.com">Email ↗</a>
+</p>
+
+I am a **Module Engineer** expanding my knowledge in **Python, C, embedded systems, and firmware** as I prepare to pursue embedded, firmware, and test engineering roles. This portfolio shares my projects, technical development, and learning journey.
+
+<p align="center"><img src="assets/engineering-path.svg" width="100%" alt="My learning approach: Learn, build, test, document. An illustrative animated signal connects each step."></p>
 
 ## 01 / Python Engineering Portfolio
 
-**In progress** · 16 completed programs · Fundamentals complete
+<table>
+<tr>
+<td width="54%" valign="top">
+  <h3>Building a programming foundation.</h3>
+  <p>Engineering-focused Python programs covering input validation, reusable functions, text processing, data structures, and result summaries.</p>
+  <p>Each completed program includes source code, usage instructions, and documented manual checks.</p>
+  <p><code>Python</code> <code>Problem solving</code> <code>Git</code></p>
+  <p><a href="https://github.com/RasydanMegat/python-engineering-portfolio"><strong>Explore the Python portfolio →</strong></a></p>
+</td>
+<td width="46%" align="center" valign="middle">
+  <a href="https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/voltage-safety-checker"><img src="assets/python-preview.svg" width="100%" alt="Illustrated terminal preview of Voltage Safety Checker: simulated inputs 2.5, 3.3 and 4.2 return LOW, NORMAL and HIGH."></a>
+  <sub>SIMULATED INPUT · DOCUMENTED PROGRAM OUTPUT</sub>
+</td>
+</tr>
+</table>
 
-Engineering-focused Python programs covering validation, reusable functions, text processing, and data structures. Each includes runnable code, usage instructions, and documented manual checks.
+| Completed programs | Fundamentals | Current focus |
+|:---:|:---:|:---:|
+| **16** | **Complete** | **Data structures** |
 
-<p><img src="https://img.shields.io/badge/Python-56D4E5?style=flat-square&amp;labelColor=0B1729" alt="Python"> <img src="https://img.shields.io/badge/Git-56D4E5?style=flat-square&amp;labelColor=0B1729" alt="Git"> <img src="https://img.shields.io/badge/Manual_testing-56D4E5?style=flat-square&amp;labelColor=0B1729" alt="Manual testing"></p>
+**Selected work:** [Voltage Safety Checker](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/voltage-safety-checker) · [Engineering Conversion Toolkit](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/engineering-conversion-toolkit) · [Sensor Reading Analyzer](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/sensor-reading-analyzer)
 
-<p align="center">
-  <a href="https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/voltage-safety-checker"><img src="assets/python-preview.svg" width="560" alt="Illustrated terminal preview of Voltage Safety Checker using simulated input and documented output."></a><br>
-  <sub>Voltage Safety Checker · Simulated input · Illustrated output</sub>
-</p>
+[Follow my Python learning roadmap →](https://github.com/RasydanMegat/python-engineering-portfolio/blob/main/ROADMAP.md)
 
-**[Explore Python →](https://github.com/RasydanMegat/python-engineering-portfolio)** &nbsp;·&nbsp; [Learning roadmap](https://github.com/RasydanMegat/python-engineering-portfolio/blob/main/ROADMAP.md)
+<br>
 
-Selected programs: [Voltage Safety Checker](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/voltage-safety-checker) · [Engineering Conversion Toolkit](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/engineering-conversion-toolkit) · [Sensor Reading Analyzer](https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/03-loops/sensor-reading-analyzer)
+## 02 / Semiconductor Quality Analytics
 
-## 02 / Power BI — Semiconductor Quality & Yield
+### Turning process data into a clearer picture.
 
-**Published project** · 4 report pages · 1,567 samples · 590 measurements
+A **four-page Power BI report** exploring semiconductor test outcomes using the UCI SECOM dataset. Move from the quality overview to measurement comparisons, data completeness, and drillthrough to individual samples.
 
-A Power BI report exploring semiconductor test outcomes from the UCI SECOM dataset. It connects a quality overview with measurement comparisons, data completeness, and individual sample investigation.
+<p><code>Power BI</code> <code>Power Query</code> <code>DAX</code> <code>Data modelling</code></p>
 
-<p><img src="https://img.shields.io/badge/Power_BI-E8BE65?style=flat-square&amp;labelColor=0B1729" alt="Power BI"> <img src="https://img.shields.io/badge/Power_Query-E8BE65?style=flat-square&amp;labelColor=0B1729" alt="Power Query"> <img src="https://img.shields.io/badge/DAX-E8BE65?style=flat-square&amp;labelColor=0B1729" alt="DAX"></p>
+<a href="https://github.com/RasydanMegat/semiconductor-quality-analytics#explore-the-report"><img src="https://raw.githubusercontent.com/RasydanMegat/semiconductor-quality-analytics/main/docs/screenshots/overview.png" width="100%" alt="Actual Power BI dashboard for semiconductor quality and yield analysis; click to explore the report repository."></a>
 
-<p align="center">
-  <a href="https://github.com/RasydanMegat/semiconductor-quality-analytics/blob/main/docs/screenshots/overview.png"><img src="https://raw.githubusercontent.com/RasydanMegat/semiconductor-quality-analytics/main/docs/screenshots/overview.png" width="480" alt="Actual Power BI semiconductor quality dashboard. Click to view the full-size screenshot."></a><br>
-  <sub>Actual report screenshot · Click to enlarge</sub>
-</p>
+| Samples | Measurements | Report pages |
+|:---:|:---:|:---:|
+| **1,567** | **590** | **4** |
 
-**[Explore Power BI →](https://github.com/RasydanMegat/semiconductor-quality-analytics)** &nbsp;·&nbsp; [Model & calculations](https://github.com/RasydanMegat/semiconductor-quality-analytics/blob/main/docs/technical-notes.md) &nbsp;·&nbsp; [Open in Desktop](https://github.com/RasydanMegat/semiconductor-quality-analytics#open-locally)
+**[Explore the project →](https://github.com/RasydanMegat/semiconductor-quality-analytics)** &nbsp;·&nbsp; [Model & calculations](https://github.com/RasydanMegat/semiconductor-quality-analytics/blob/main/docs/technical-notes.md) &nbsp;·&nbsp; [Open in Power BI Desktop](https://github.com/RasydanMegat/semiconductor-quality-analytics#open-locally)
 
-## 03 / Embedded & Firmware Learning
+<sub>Static preview of the actual report. Interactive exploration is available in Power BI Desktop.</sub>
 
-**Learning in progress** · Coursera coursework
+<br>
 
-Building foundations in C, embedded systems, and firmware through current coursework. The repository is ready for personal notes, original code, and future hands-on projects as my learning progresses.
+## 03 / Embedded Systems & Firmware
 
-<p><img src="https://img.shields.io/badge/C-9EAFF5?style=flat-square&amp;labelColor=0B1729" alt="C"> <img src="https://img.shields.io/badge/Embedded_systems-9EAFF5?style=flat-square&amp;labelColor=0B1729" alt="Embedded systems"> <img src="https://img.shields.io/badge/Firmware-9EAFF5?style=flat-square&amp;labelColor=0B1729" alt="Firmware"></p>
+### Developing the next layer of my skills.
 
-<p align="center">
-  <img src="assets/embedded-learning-path.svg" width="560" alt="Learning plan: Coursera coursework is in progress; notes and C practice, followed by hands-on projects, are planned."><br>
-  <sub>Learning plan · Notes and projects will be added as they are ready</sub>
-</p>
+📚 **Learning in progress · Coursera**
 
-**[Explore embedded & firmware learning →](https://github.com/RasydanMegat/embedded-firmware-learning)**
+I am currently taking courses on Coursera and developing my knowledge of **C, embedded systems, and firmware**. This repository is the starting point for my personal notes, original code, and future hands-on projects.
 
-## 🧭 Current focus & next steps
+<p><code>C</code> <code>Embedded fundamentals</code> <code>Firmware</code></p>
 
-- **Current focus:** Python data structures and Coursera learning in embedded systems and firmware.
-- **Next steps:** Files and error handling, then object-oriented programming; document C and embedded learning as I progress.
-- **Longer term:** Larger Python projects, engineering simulations, and hands-on embedded work.
+**[Follow my embedded & firmware learning →](https://github.com/RasydanMegat/embedded-firmware-learning)**
 
-I learn by writing an initial solution, testing its behaviour, and using AI-assisted explanations and review to understand and correct mistakes.
+---
 
-## 🤝 Connect
+## 🧭 Learning direction
 
-**[LinkedIn ↗](https://www.linkedin.com/in/rasydan-bin-megat-ridzuan-350b2426a/)** &nbsp;·&nbsp; **[Email ↗](mailto:rasydan.mgtridzuan@gmail.com)** &nbsp;·&nbsp; **[All repositories ↗](https://github.com/RasydanMegat?tab=repositories)**
+| Area | Where I am now | Where I am heading |
+|:---|:---|:---|
+| **Python** | Fundamentals complete; data structures in progress | Files and error handling → OOP → larger projects → engineering simulations |
+| **Embedded & firmware** | Coursera learning in progress | Build foundations in C and embedded systems, then document hands-on work |
+
+## How I learn
+
+**Understand the concept. Build something. Check the result. Document the learning.**
+
+I write an initial solution, test it, and use AI-assisted explanations and review to understand and correct mistakes. My repositories document both completed work and the skills I am still developing.
+
+## 🤝 Let's connect
+
+Interested in my work or learning journey? Connect with me on LinkedIn or explore the repositories above.
+
+**[LinkedIn ↗](https://www.linkedin.com/in/rasydan-bin-megat-ridzuan-350b2426a/)** &nbsp;·&nbsp; **[Email ↗](mailto:rasydan.mgtridzuan@gmail.com)** &nbsp;·&nbsp; **[GitHub repositories ↗](https://github.com/RasydanMegat?tab=repositories)**
+
+<p align="center"><br><img src="assets/rm-mark.svg" width="42" alt="RM monogram"><br><sub>RASYDAN MEGAT &nbsp; / &nbsp; Code. Systems. Engineering.</sub></p>
