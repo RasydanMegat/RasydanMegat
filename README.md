@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/rasydan-banner.png" width="100%" alt="Rasydan Megat — Module Engineer. Code. Data. Engineering.">
+  <img src="assets/rasydan-banner.png" width="100%" alt="Rasydan Megat — Module Engineer. Code. Systems. Engineering.">
 </p>
 
 <p align="center">
   <strong>Preparing for opportunities in Embedded Systems, Firmware &amp; Test Engineering</strong><br>
-  <sub>LEARNING FOCUS &nbsp; / &nbsp; Python · Data Analytics · C · Embedded Systems · Firmware</sub>
+  <sub>LEARNING FOCUS &nbsp; / &nbsp; Python · C · Embedded Systems · Firmware</sub>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <a href="mailto:rasydan.mgtridzuan@gmail.com">Email ↗</a>
 </p>
 
-I am a **Module Engineer** expanding my knowledge in **Python, data analytics, C, embedded systems, and firmware** as I prepare to pursue embedded, firmware, and test engineering roles. This portfolio shares my projects, technical development, and learning journey.
+I am a **Module Engineer** expanding my knowledge in **Python, C, embedded systems, and firmware** as I prepare to pursue embedded, firmware, and test engineering roles. This portfolio shares my projects, technical development, and learning journey.
 
 <p align="center"><img src="assets/engineering-path.svg" width="100%" alt="My learning approach: Learn, build, test, document. An illustrative animated signal connects each step."></p>
 
@@ -90,7 +90,6 @@ I am currently taking courses on Coursera and developing my knowledge of **C, em
 | Area | Where I am now | Where I am heading |
 |:---|:---|:---|
 | **Python** | Fundamentals complete; data structures in progress | Files and error handling → OOP → larger projects → engineering simulations |
-| **Data analytics** | Published a semiconductor analysis project in Power BI | Continue developing data preparation, modelling, and analytical reporting skills |
 | **Embedded & firmware** | Coursera learning in progress | Build foundations in C and embedded systems, then document hands-on work |
 
 ## How I learn
@@ -105,4 +104,4 @@ Interested in my work or learning journey? Connect with me on LinkedIn or explor
 
 **[LinkedIn ↗](https://www.linkedin.com/in/rasydan-bin-megat-ridzuan-350b2426a/)** &nbsp;·&nbsp; **[Email ↗](mailto:rasydan.mgtridzuan@gmail.com)** &nbsp;·&nbsp; **[GitHub repositories ↗](https://github.com/RasydanMegat?tab=repositories)**
 
-<p align="center"><br><img src="assets/rm-mark.svg" width="42" alt="RM monogram"><br><sub>RASYDAN MEGAT &nbsp; / &nbsp; Code. Data. Engineering.</sub></p>
+<p align="center"><br><img src="assets/rm-mark.svg" width="42" alt="RM monogram"><br><sub>RASYDAN MEGAT &nbsp; / &nbsp; Code. Systems. Engineering.</sub></p>
