@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rasydan-banner.png" width="100%" alt="Rasydan Megat — Module Engineer. Code. Systems. Engineering.">
+  <img src="assets/rasydan-engineering-banner.png" width="100%" alt="Rasydan Megat — Module Engineer. Code. Systems. Engineering.">
 </p>
 
 <p align="center">
