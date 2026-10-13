@@ -2,7 +2,7 @@
   <img src="assets/profile-banner-v3.png" width="100%" alt="Rasydan Megat — Module Engineer. Building toward Embedded, Firmware &amp; Test Engineering.">
 </p>
 
-I'm **Rasydan**, a Module Engineer building skills in **Python, C, embedded systems, and firmware**. My goal is to move into embedded, firmware, or test engineering, and this portfolio documents my progress through projects and continued learning.
+I'm **Rasydan**, a Module Engineer developing skills in **Python, C, embedded systems, and firmware**. This portfolio brings together my projects, practical work, and ongoing learning.
 
 <p>
   <a href="#01--python-engineering-portfolio">Python portfolio</a> &nbsp;·&nbsp;
@@ -13,14 +13,14 @@ I'm **Rasydan**, a Module Engineer building skills in **Python, C, embedded syst
 
 ## 01 / Python Engineering Portfolio
 
-**In progress** · 16 completed programs · Fundamentals complete
+**In progress** · 16 completed programs
 
 Engineering-focused Python programs covering validation, reusable functions, text processing, and data structures. Each includes runnable code, usage instructions, and documented manual checks.
 
 <p><img src="https://img.shields.io/badge/Python-56D4E5?style=flat-square&amp;labelColor=0B1729" alt="Python"> <img src="https://img.shields.io/badge/Git-56D4E5?style=flat-square&amp;labelColor=0B1729" alt="Git"> <img src="https://img.shields.io/badge/Manual_testing-56D4E5?style=flat-square&amp;labelColor=0B1729" alt="Manual testing"></p>
 
 <p align="center">
-  <a href="https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/voltage-safety-checker"><img src="assets/python-preview.svg" width="560" alt="Illustrated terminal preview of Voltage Safety Checker using simulated input and documented output."></a><br>
+  <a href="https://github.com/RasydanMegat/python-engineering-portfolio/tree/main/01-python-fundamentals/04-functions/voltage-safety-checker"><img src="assets/python-preview.svg" width="440" alt="Illustrated terminal preview of Voltage Safety Checker using simulated input and documented output."></a><br>
   <sub>Voltage Safety Checker · Simulated input · Illustrated output</sub>
 </p>
 
@@ -37,17 +37,17 @@ A Power BI report exploring semiconductor test outcomes from the UCI SECOM datas
 <p><img src="https://img.shields.io/badge/Power_BI-E8BE65?style=flat-square&amp;labelColor=0B1729" alt="Power BI"> <img src="https://img.shields.io/badge/Power_Query-E8BE65?style=flat-square&amp;labelColor=0B1729" alt="Power Query"> <img src="https://img.shields.io/badge/DAX-E8BE65?style=flat-square&amp;labelColor=0B1729" alt="DAX"></p>
 
 <p align="center">
-  <a href="https://github.com/RasydanMegat/semiconductor-quality-analytics/blob/main/docs/screenshots/overview.png"><img src="https://raw.githubusercontent.com/RasydanMegat/semiconductor-quality-analytics/main/docs/screenshots/overview.png" width="480" alt="Actual Power BI semiconductor quality dashboard. Click to view the full-size screenshot."></a><br>
+  <a href="https://github.com/RasydanMegat/semiconductor-quality-analytics/blob/main/docs/screenshots/overview.png"><img src="https://raw.githubusercontent.com/RasydanMegat/semiconductor-quality-analytics/main/docs/screenshots/overview.png" width="600" alt="Actual Power BI semiconductor quality dashboard. Click to view the full-size screenshot."></a><br>
   <sub>Actual report screenshot · Click to enlarge</sub>
 </p>
 
-**[Explore Power BI →](https://github.com/RasydanMegat/semiconductor-quality-analytics)** &nbsp;·&nbsp; [Model & calculations](https://github.com/RasydanMegat/semiconductor-quality-analytics/blob/main/docs/technical-notes.md) &nbsp;·&nbsp; [Open in Desktop](https://github.com/RasydanMegat/semiconductor-quality-analytics#open-locally)
+**[Explore Power BI →](https://github.com/RasydanMegat/semiconductor-quality-analytics)** &nbsp;·&nbsp; [Model & calculations](https://github.com/RasydanMegat/semiconductor-quality-analytics/blob/main/docs/technical-notes.md) &nbsp;·&nbsp; [Open in Power BI Desktop — instructions](https://github.com/RasydanMegat/semiconductor-quality-analytics#open-locally)
 
 ## 03 / Embedded & Firmware Learning
 
 **Learning in progress** · Coursera coursework
 
-Building foundations in C, embedded systems, and firmware through current coursework. The repository is ready for personal notes, original code, and future hands-on projects as my learning progresses.
+I'm studying C, embedded systems, and firmware through Coursera coursework. I'll add personal notes, original code, and practical projects as I progress.
 
 <p><img src="https://img.shields.io/badge/C-9EAFF5?style=flat-square&amp;labelColor=0B1729" alt="C"> <img src="https://img.shields.io/badge/Embedded_systems-9EAFF5?style=flat-square&amp;labelColor=0B1729" alt="Embedded systems"> <img src="https://img.shields.io/badge/Firmware-9EAFF5?style=flat-square&amp;labelColor=0B1729" alt="Firmware"></p>
 
