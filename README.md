@@ -47,7 +47,7 @@ A Power BI report exploring semiconductor test outcomes from the UCI SECOM datas
 
 **Learning in progress** · Coursera coursework
 
-I'm studying C, embedded systems, and firmware through Coursera coursework. I'll add personal notes, original code, and practical projects as I progress.
+I'm currently taking the **[Embedded Software Development with C Specialization](https://www.coursera.org/specializations/embedded-software-development-with-c)** on Coursera to build my knowledge of C, embedded systems, and firmware. I'll add personal notes, original code, and practical projects as I progress.
 
 <p><img src="https://img.shields.io/badge/C-9EAFF5?style=flat-square&amp;labelColor=0B1729" alt="C"> <img src="https://img.shields.io/badge/Embedded_systems-9EAFF5?style=flat-square&amp;labelColor=0B1729" alt="Embedded systems"> <img src="https://img.shields.io/badge/Firmware-9EAFF5?style=flat-square&amp;labelColor=0B1729" alt="Firmware"></p>
 
