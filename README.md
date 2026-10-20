@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/profile-banner-v3.png" width="100%" alt="Rasydan Megat — Module Engineer. Building toward Embedded, Firmware &amp; Test Engineering.">
+  <img src="assets/profile-banner-v4.png" width="100%" alt="Rasydan Megat — Test Process &amp; Equipment Engineer. Building toward Embedded, Firmware &amp; Test Engineering.">
 </p>
 
-I'm **Rasydan**, a Module Engineer developing skills in **Python, C, embedded systems, and firmware**. This portfolio brings together my projects, practical work, and ongoing learning.
+I'm **Rasydan**, a Test Process & Equipment Engineer developing skills in **Python, C, embedded systems, and firmware**. This portfolio brings together my projects, practical work, and ongoing learning.
 
 <p>
   <a href="#01--python-engineering-portfolio">Python portfolio</a> &nbsp;·&nbsp;
